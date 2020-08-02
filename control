@@ -1,0 +1,9 @@
+Package: com.secondeight1.jitter
+Name: Jitter
+Depends: mobilesubstrate, com.iosblocks.curago
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animate apps that have notifications!
+Maintainer: SecondEight1
+Author: SecondEight1
+Section: Tweaks
